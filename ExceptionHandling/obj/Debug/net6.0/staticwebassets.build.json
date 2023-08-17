@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "rDxOGqA61iLd9wEaRUw15+6+CHJntMXgLTY0c9R7QI0=",
+  "Source": "ExceptionHandling",
+  "BasePath": "_content/ExceptionHandling",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExceptionHandling\\wwwroot",
+      "Source": "ExceptionHandling",
+      "ContentRoot": "C:\\Users\\Rezzen\\Desktop\\ExceptionHandling\\ExceptionHandling\\wwwroot\\",
+      "BasePath": "_content/ExceptionHandling",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rezzen\\Desktop\\ExceptionHandling\\ExceptionHandling\\wwwroot\\exception.html",
+      "SourceId": "ExceptionHandling",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rezzen\\Desktop\\ExceptionHandling\\ExceptionHandling\\wwwroot\\",
+      "BasePath": "_content/ExceptionHandling",
+      "RelativePath": "exception.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exception.html"
+    }
+  ]
+}
